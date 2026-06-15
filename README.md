@@ -236,7 +236,11 @@ Data-driven recommendations for risk management.
 
 ## 📄 License
 
-This project is intended for educational and portfolio purposes.
+This work is licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 
+4.0 International License.
+
+You are free to:
+- Share: copy and redistribute the material in any medium or format
 
 ---
 
