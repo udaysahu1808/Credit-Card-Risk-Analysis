@@ -7,6 +7,7 @@
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-purple)
 ![Seaborn](https://img.shields.io/badge/Visualization-Seaborn-lightblue)
 ![Matplotlib](https://img.shields.io/badge/Visualization-Matplotlib-red)
+![Plotly](https://img.shields.io/badge/Visualization-Plotly-3F4F75?logo=plotly&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 
 A comprehensive end-to-end data analytics project that analyzes credit card customer data to identify risk factors, segment customers by default probability, and deliver actionable business insights through interactive visualizations and a Power BI executive dashboard.
