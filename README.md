@@ -4,6 +4,7 @@
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter)
 ![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow?logo=powerbi)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+![EDA](https://img.shields.io/badge/Project-EDA-blue)
 
 A comprehensive end-to-end data analytics project that analyzes credit card customer data to identify risk factors, segment customers by default probability, and deliver actionable business insights through interactive visualizations and a Power BI executive dashboard.
 
