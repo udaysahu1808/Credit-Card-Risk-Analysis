@@ -3,8 +3,11 @@
 ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter)
 ![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow?logo=powerbi)
-![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 ![EDA](https://img.shields.io/badge/Project-EDA-blue)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-purple)
+![Seaborn](https://img.shields.io/badge/Visualization-Seaborn-lightblue)
+![Matplotlib](https://img.shields.io/badge/Visualization-Matplotlib-red)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 
 A comprehensive end-to-end data analytics project that analyzes credit card customer data to identify risk factors, segment customers by default probability, and deliver actionable business insights through interactive visualizations and a Power BI executive dashboard.
 
