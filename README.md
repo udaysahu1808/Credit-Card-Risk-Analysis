@@ -241,18 +241,20 @@ Data-driven recommendations for risk management.
 
 ## 📄 License
 
-Copyright (c) 2025 Uday Sahu.
+Copyright © 2026 Uday Sahu
 
-This work is licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 
-4.0 International License.
+All Rights Reserved.
 
-You are free to:
-- Share: copy and redistribute the material in any medium or format
+This project and all associated files, including but not limited to source code, notebooks, reports, dashboards, visualizations, documentation, and datasets, are the exclusive intellectual property of Uday Sahu.
 
-Under the following terms:
-- Attribution: You must give appropriate credit to the original author (Uday Sahu.)
-- NonCommercial: You may not use the material for commercial purposes
-- NoDerivatives: You may not modify, transform, or build upon the material
+No part of this project may be copied, reproduced, modified, distributed, published, sublicensed, displayed, transmitted, or sold in any form or by any means without the prior written permission of the copyright holder.
+
+Permission is granted only to view this project for personal, educational, or portfolio evaluation purposes. Commercial use, redistribution, and creation of derivative works are strictly prohibited.
+
+Unauthorized use, reproduction, or distribution of this project may result in legal action under applicable copyright laws.
+
+For permissions or licensing inquiries, please contact the copyright holder directly.
+
 
 ---
 
