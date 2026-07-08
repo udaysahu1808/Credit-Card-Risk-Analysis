@@ -4,6 +4,7 @@
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter)
 ![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow?logo=powerbi)
 ![EDA](https://img.shields.io/badge/Project-EDA-blue)
+![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-purple)
 ![Seaborn](https://img.shields.io/badge/Visualization-Seaborn-lightblue)
 ![Matplotlib](https://img.shields.io/badge/Visualization-Matplotlib-red)
