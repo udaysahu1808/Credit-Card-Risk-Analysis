@@ -102,12 +102,28 @@ To analyze credit card customer data and identify the factors that influence cus
 ## 📁 Project Structure
 
 ```
-credit-card-risk-analysis/
+Credit-Card-Customer-Risk-Analysis/
 │
-├── Credit Card Customer Risk Notebook.ipynb            # Jupyter Notebook — EDA & Analysis
-├── Credit Card Customer Risk Dashboard.pbix            # Power BI Executive Dashboard
-├── credit_card_customer_risk.csv                       # Dataset
-└── README.md                                           # Project documentation
+├── data/
+│   └── credit_card_customer_risk.xlsx
+│
+├── notebook/
+│   └── credit_card_customer_risk_analysis.ipynb
+│
+├── dashboard/
+│   ├── Credit_Card_Customer_Risk_Dashboard.pbix
+│   └── dashboard_preview.png
+│
+├── visuals/
+│   ├── age_analysis.png
+│   ├── income_analysis.png
+│   ├── correlation_heatmap.png
+│   ├── sunburst_chart.png
+│   └── treemap_analysis.png
+│
+├── README.md
+├── LICENSE
+└── requirements.txt                                          # Project documentation
 ```
 
 ---
