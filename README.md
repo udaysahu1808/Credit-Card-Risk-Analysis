@@ -34,7 +34,7 @@ A comprehensive end to end data analytics project that analyzes credit card cust
 
 ## 📖 Project Overview
 
-Credit card issuers face significant challenges in identifying customers likely to default on their credit obligations. This project leverages **Exploratory Data Analysis (EDA)**, **feature engineering**, and **data visualization** to uncover the key behavioral and demographic factors that drive credit card default risk.
+Credit card issuers face significant challenges in identifying customers likely to default on their credit obligations. This project leverages **Exploratory Data Analysis (EDA)**, **feature engineering** and **data visualization** to uncover the key behavioral and demographic factors that drive credit card default risk.
 
 The project is delivered in two complementary formats:
 - **Jupyter Notebook** — detailed EDA, statistical analysis, and business insights
